@@ -32,7 +32,7 @@ assets, allowing for unique identification on cosmos chains with multiple native
 
 ### Cosmos chain ibc asset Asset Namespace
 
-The asset namespace is called "ibc". It reference cosmos network blockchain inter blockchain channel assets.
+The asset namespace is called "ibc". It reference Cosmos network blockchain inter blockchain channel assets.
 
 #### Asset Reference Definition
 
