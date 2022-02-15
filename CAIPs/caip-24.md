@@ -39,8 +39,7 @@ The Asset Reference format for cosmos chains is the the base denom of the asset 
 
 ## Rationale
 
-The asset namespace using slip44 for cosmos chains is insufficient for chains with multiple native assets
-like osmosis-1. Using the "native" namespace allows multiple native assets to have unique CAIP19s.
+The asset namespace using slip44 for Cosmos chains is insufficient for chains with multiple native assets like osmosis-1. Using the "native" namespace allows multiple native assets to have unique CAIP19s.
 
 ## Backwards Compatibility
 
