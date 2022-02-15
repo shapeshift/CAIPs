@@ -54,7 +54,7 @@ Not applicable.
 This is a list of manually composed examples
 
 ```
-# Native Atom Asset ont the cosmoshub-4 chain
+# Native Atom Asset on the cosmoshub-4 chain
 cosmos:cosmoshub-4/slip44:118
 
 # Native Osmosis Asset on the osmosis-1 chain
