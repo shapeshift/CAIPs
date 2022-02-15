@@ -29,13 +29,13 @@ See CAIP-19.
 
 An asset namespace called "native" that references Cosmos network blockchain native assets, allowing for unique identification on Cosmos chains with multiple native assets.
 
-### Cosmos chain ibc asset Asset Namespace
+### Cosmos chain IBC Asset Namespace
 
-The asset namespace is called "ibc". It reference Cosmos network blockchain inter blockchain channel assets.
+The asset namespace is called "ibc". It references Cosmos network blockchain inter blockchain channel assets.
 
 #### Multiple Native Asset Reference Definition
 
-The Asset Reference format for cosmos chains is the the base denom of the asset in the current chain_id.
+The Asset Reference format for cosmos chains is the base denomination of the asset in the current chain_id.
 
 #### IBC Asset Reference Definition
 
