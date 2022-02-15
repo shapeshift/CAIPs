@@ -43,7 +43,7 @@ The asset namespace using slip44 for Cosmos chains is insufficient for chains wi
 
 ## Backwards Compatibility
 
-Not applicable
+Not applicable.
 
 ## Test Cases
 
