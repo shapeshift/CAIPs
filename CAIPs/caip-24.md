@@ -34,9 +34,13 @@ assets, allowing for unique identification on cosmos chains with multiple native
 
 The asset namespace is called "ibc". It reference cosmos network blockchain inter blockchain channel assets.
 
-#### Asset Reference Definition
+#### Multiple Native Asset Reference Definition
 
 The Asset Reference format for cosmos chains is the the base denom of the asset in the current chain_id.
+
+#### IBC Asset Reference Definition
+
+The Asset Reference format for Cosmos chain ibc assets is the ibc channel identifier for that asset.
 
 ## Rationale
 
