@@ -1,6 +1,6 @@
 ---
 caip: 24
-title: Asset Reference for the cosmos Asset Namespace
+title: Asset Reference for the Cosmos Asset Namespace
 author: Theobold Frazier
 discussions-to: https://github.com/shapeshift/CAIPs/issues/1
 status: Draft
