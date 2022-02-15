@@ -1,6 +1,6 @@
 ---
 caip: 24
-title: Asset Reference for the cosmos Asset Namespace
+title: Asset Reference for the Cosmos Asset Namespace
 author: Theobold Frazier
 discussions-to: https://github.com/shapeshift/CAIPs/issues/1
 status: Draft
@@ -27,12 +27,11 @@ See CAIP-19.
 
 ### Cosmos chain Native Asset Namespace
 
-An asset namespace called "native" that references cosmos network blockchain native
-assets, allowing for unique identification on cosmos chains with multiple native assets.
+An asset namespace called "native" that references Cosmos network blockchain native assets, allowing for unique identification on Cosmos chains with multiple native assets.
 
 ### Cosmos chain ibc asset Asset Namespace
 
-The asset namespace is called "ibc". It reference cosmos network blockchain inter blockchain channel assets.
+The asset namespace is called "ibc". It reference Cosmos network blockchain inter blockchain channel assets.
 
 #### Multiple Native Asset Reference Definition
 
@@ -44,8 +43,7 @@ The Asset Reference format for Cosmos chain ibc assets is the ibc channel identi
 
 ## Rationale
 
-The asset namespace using slip44 for cosmos chains is insufficient for chains with multiple native assets
-like osmosis-1. Using the "native" namespace allows multiple native assets to have unique CAIP19s.
+The asset namespace using slip44 for Cosmos chains is insufficient for chains with multiple native assets like osmosis-1. Using the "native" namespace allows multiple native assets to have unique CAIP19s.
 
 ## Backwards Compatibility
 
