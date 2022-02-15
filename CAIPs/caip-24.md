@@ -27,8 +27,7 @@ See CAIP-19.
 
 ### Cosmos chain Native Asset Namespace
 
-An asset namespace called "native" that references cosmos network blockchain native
-assets, allowing for unique identification on cosmos chains with multiple native assets.
+An asset namespace called "native" that references Cosmos network blockchain native assets, allowing for unique identification on Cosmos chains with multiple native assets.
 
 ### Cosmos chain ibc asset Asset Namespace
 
