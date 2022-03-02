@@ -35,7 +35,7 @@ An Asset Namespace called "ibc". It references Cosmos network blockchain Inter-B
 
 #### Multiple Native Asset Reference Definition
 
-The Asset Reference format for Cosmos chain native assets is the base denomination of the asset in the current chain_id.
+The Asset Reference format for Cosmos chain native assets is the base denomination of the asset in the current `chain_id`.
 
 #### IBC Asset Reference Definition
 
