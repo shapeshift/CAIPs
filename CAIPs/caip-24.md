@@ -21,7 +21,7 @@ implementation of CAIP-19 for Cosmos chain native assets and ibc assets.
 
 ## Motivation
 
-See CAIP-19.
+See [CAIP-19](https://github.com/ChainAgnostic/CAIPs/blob/master/CAIPs/caip-19.md).
 
 ## Specification
 
